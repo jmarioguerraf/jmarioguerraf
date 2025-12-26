@@ -4,11 +4,13 @@
 
 <p style="color:transparent";>.</p>
 
+<!--
 <div>
   <a href="https://linktr.ee/josemarioguerra">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=jmarioguerraf&show_icons=true&theme=dark"/>
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarioguerraf&layout=compact&langs_count=8&theme=dark"/>
 </div>
+-->
 
 <p style="color:transparent";>.</p>
 
