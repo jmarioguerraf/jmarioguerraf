@@ -17,8 +17,8 @@
 - 👔 Atualmente sou Analista Financeiro com expertise em analise de custo operacional, fiscal e Compliance.
 - 🎓 Sou Bacharel em Comunicação Social (Publicidade e Propaganda).
 - 🌱 Tenho cursos de Design Gráfico (Adobe Creative Cloud) e DGR (Dangerous Goods Regulations certificado pela IATA).
+- 💻 Desenvolvimeto Web em progresso pela "Refatorando by Belago".
 - 📖 Que tal me ajudar na jornada Dev? Estou estudando Front-End: HTML, CSS e tenho uns scripts em .py😁
-- 💻 Estou estudando Desenvolvimeto Web pela "Refatorando by Belago".
 
 
 <div style="display: inline_block"><br>
